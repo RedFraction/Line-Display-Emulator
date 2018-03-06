@@ -1,6 +1,7 @@
 # Line-Display-Emulator / Эмулятор дисплея покупателя
 
 EN: Line display emulator for 1C:Enterprise 8.3 : Retail 2.2 .
+
 RU: Эмулятор дисплея покупателя для 1С:Предприятия 8.3 : Розница 2.2
 
 ### This project using: / Для проекта потребуется
