@@ -4,9 +4,11 @@ RU: Эмулятор дисплея покупателя для 1С:Предпр
 
 ### This project using: / Для проекта потребуется
 EN:
+
 - [jSSC](https://github.com/scream3r/java-simple-serial-connector) - Java Simple Serial Connector, to listen COM-port.
 - [com0com](http://com0com.sourceforge.net/) - Null-modem emulator - For redirect data from 1C:Enterprise
 RU: 
+
 - [jSSC](https://github.com/scream3r/java-simple-serial-connector) - Библиотека для считывания данных с последовательно порта.
 - [com0com](http://com0com.sourceforge.net/) - Null-modem emulator - Для перенаправления данных из 1С на сторону Java.
 
@@ -17,6 +19,7 @@ EN:
 3. Connect lib in your IDE, set - port(second created port), speed, stop bit, parity like in 1C:Enterprise, than just compile it and run.
 
 Oh yeah, it works.
+
 RU: 
 1. Установите com0com, и создайте новую пару используя - "add pair".
 2. Добавьте новый "Дисплей покупателя" и настройте на первый из созданных в com0com портов.
@@ -26,4 +29,5 @@ RU:
 
 ## P.S.
 I wish it could help you.
+
 Я надеюсь это вам поможет.
